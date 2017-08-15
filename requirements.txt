@@ -1,0 +1,1 @@
+Result of pip freeze > requirements.txt from the env of the app

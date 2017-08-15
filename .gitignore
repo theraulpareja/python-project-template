@@ -1,0 +1,13 @@
+#Skip vim temporal files
+*.swp
+*.swo
+
+#Do not try pyc files
+*.pyc
+
+#Do not track pip
+pip-selfcheck.json
+.Python
+
+#Do not track env 
+env/
