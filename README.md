@@ -18,7 +18,7 @@ This is just a skeleton tree with some templates to use for my python scripts an
     `-- test_template.py
 ```
 
-#### conf
+### conf
 Directory to host config files to run an app wether INI or YAML (optional)
 
 ### docs
